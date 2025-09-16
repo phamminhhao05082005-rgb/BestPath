@@ -1,0 +1,490 @@
+
+============================
+Tìm đường từ SG → B
+Ưu tiên: time
+----------------------------
+UCS: time=124.74 giay, distance=0.693 km, delay=0.00 phút
+A*: time=124.74 giay, distance=0.693 km, delay=0.00 phút
+Greedy: time=155.88 giay, distance=0.866 km, delay=0.00 phút
+BFS: time=139.86 giay, distance=0.777 km, delay=0.00 phút
+DFS: time=673.38 giay, distance=3.741 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=124.74 giay, distance=0.693 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ SG → D
+Ưu tiên: time
+----------------------------
+UCS: time=153.54 giay, distance=0.853 km, delay=0.00 phút
+A*: time=153.54 giay, distance=0.853 km, delay=0.00 phút
+Greedy: time=153.54 giay, distance=0.853 km, delay=0.00 phút
+BFS: time=153.54 giay, distance=0.853 km, delay=0.00 phút
+DFS: time=589.86 giay, distance=3.277 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=153.54 giay, distance=0.853 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ SG → D
+Ưu tiên: time
+----------------------------
+UCS: time=181.44 giay, distance=1.008 km, delay=0.00 phút
+A*: time=181.44 giay, distance=1.008 km, delay=0.00 phút
+Greedy: time=753.54 giay, distance=0.853 km, delay=10.00 phút
+BFS: time=753.54 giay, distance=0.853 km, delay=10.00 phút
+DFS: time=589.86 giay, distance=3.277 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=181.44 giay, distance=1.008 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → D
+Ưu tiên: time
+----------------------------
+UCS: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+A*: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+Greedy: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+BFS: time=307.08 giay, distance=1.706 km, delay=0.00 phút
+DFS: time=492.66 giay, distance=2.737 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=284.94 giay, distance=1.583 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → C
+Ưu tiên: time
+----------------------------
+UCS: time=144.72 giay, distance=0.804 km, delay=0.00 phút
+A*: time=144.72 giay, distance=0.804 km, delay=0.00 phút
+Greedy: time=167.04 giay, distance=0.928 km, delay=0.00 phút
+BFS: time=144.72 giay, distance=0.804 km, delay=0.00 phút
+DFS: time=222.30 giay, distance=1.235 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=144.72 giay, distance=0.804 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → C
+Ưu tiên: time
+----------------------------
+UCS: time=144.72 giay, distance=0.804 km, delay=0.00 phút
+A*: time=144.72 giay, distance=0.804 km, delay=0.00 phút
+Greedy: time=167.04 giay, distance=0.928 km, delay=0.00 phút
+BFS: time=144.72 giay, distance=0.804 km, delay=0.00 phút
+DFS: time=222.30 giay, distance=1.235 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=144.72 giay, distance=0.804 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: time
+----------------------------
+UCS: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+A*: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+Greedy: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+BFS: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+DFS: time=677.52 giay, distance=3.764 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=182.34 giay, distance=1.013 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: time
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+BFS: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+DFS: time=1277.52 giay, distance=3.764 km, delay=10.00 phút
+----------------------------
+Best (time): UCS | time=351.18 giay, distance=1.951 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: time
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+BFS: time=390.60 giay, distance=2.170 km, delay=0.00 phút
+DFS: time=576.18 giay, distance=3.201 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=351.18 giay, distance=1.951 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: distance
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+BFS: time=390.60 giay, distance=2.170 km, delay=0.00 phút
+DFS: time=576.18 giay, distance=3.201 km, delay=0.00 phút
+----------------------------
+Best (distance): UCS | time=351.18 giay, distance=1.951 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: distance
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+BFS: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+DFS: time=1277.52 giay, distance=3.764 km, delay=10.00 phút
+----------------------------
+Best (distance): Greedy | time=782.34 giay, distance=1.013 km, delay=10.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: time
+----------------------------
+UCS: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+A*: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+Greedy: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+BFS: time=182.34 giay, distance=1.013 km, delay=0.00 phút
+DFS: time=677.52 giay, distance=3.764 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=182.34 giay, distance=1.013 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: time
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+BFS: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+DFS: time=1277.52 giay, distance=3.764 km, delay=10.00 phút
+----------------------------
+Best (time): UCS | time=351.18 giay, distance=1.951 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: time
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+BFS: time=390.60 giay, distance=2.170 km, delay=0.00 phút
+DFS: time=576.18 giay, distance=3.201 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=351.18 giay, distance=1.951 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: distance
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+BFS: time=782.34 giay, distance=1.013 km, delay=10.00 phút
+DFS: time=1277.52 giay, distance=3.764 km, delay=10.00 phút
+----------------------------
+Best (distance): Greedy | time=782.34 giay, distance=1.013 km, delay=10.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → B
+Ưu tiên: distance
+----------------------------
+UCS: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+A*: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+Greedy: time=351.18 giay, distance=1.951 km, delay=0.00 phút
+BFS: time=390.60 giay, distance=2.170 km, delay=0.00 phút
+DFS: time=576.18 giay, distance=3.201 km, delay=0.00 phút
+----------------------------
+Best (distance): UCS | time=351.18 giay, distance=1.951 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+A*: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+Greedy: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+BFS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=102.60 giay, distance=0.570 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+A*: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+Greedy: time=702.60 giay, distance=0.570 km, delay=10.00 phút
+BFS: time=702.60 giay, distance=0.570 km, delay=10.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=130.50 giay, distance=0.725 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+A*: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+Greedy: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+BFS: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=130.50 giay, distance=0.725 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+A*: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+Greedy: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+BFS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=102.60 giay, distance=0.570 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+A*: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+Greedy: time=702.60 giay, distance=0.570 km, delay=10.00 phút
+BFS: time=702.60 giay, distance=0.570 km, delay=10.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=130.50 giay, distance=0.725 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+A*: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+Greedy: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+BFS: time=130.50 giay, distance=0.725 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=130.50 giay, distance=0.725 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → C
+Ưu tiên: time
+----------------------------
+UCS: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+A*: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+Greedy: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+BFS: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+DFS: time=251.28 giay, distance=1.396 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=198.36 giay, distance=1.102 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → C
+Ưu tiên: time
+----------------------------
+UCS: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+A*: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+Greedy: time=798.36 giay, distance=1.102 km, delay=10.00 phút
+BFS: time=798.36 giay, distance=1.102 km, delay=10.00 phút
+DFS: time=851.28 giay, distance=1.396 km, delay=10.00 phút
+----------------------------
+Best (time): UCS | time=286.74 giay, distance=1.593 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → C
+Ưu tiên: time
+----------------------------
+UCS: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+A*: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+Greedy: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+BFS: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+DFS: time=251.28 giay, distance=1.396 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=198.36 giay, distance=1.102 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → C
+Ưu tiên: time
+----------------------------
+UCS: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+A*: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+Greedy: time=798.36 giay, distance=1.102 km, delay=10.00 phút
+BFS: time=798.36 giay, distance=1.102 km, delay=10.00 phút
+DFS: time=851.28 giay, distance=1.396 km, delay=10.00 phút
+----------------------------
+Best (time): UCS | time=286.74 giay, distance=1.593 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → C
+Ưu tiên: time
+----------------------------
+UCS: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+A*: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+Greedy: time=296.46 giay, distance=1.647 km, delay=0.00 phút
+BFS: time=286.74 giay, distance=1.593 km, delay=0.00 phút
+DFS: time=521.10 giay, distance=2.895 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=286.74 giay, distance=1.593 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → C
+Ưu tiên: time
+----------------------------
+UCS: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+A*: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+Greedy: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+BFS: time=198.36 giay, distance=1.102 km, delay=0.00 phút
+DFS: time=251.28 giay, distance=1.396 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=198.36 giay, distance=1.102 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ C → D
+Ưu tiên: time
+----------------------------
+UCS: time=162.36 giay, distance=0.902 km, delay=0.00 phút
+A*: time=162.36 giay, distance=0.902 km, delay=0.00 phút
+Greedy: time=162.36 giay, distance=0.902 km, delay=0.00 phút
+BFS: time=162.36 giay, distance=0.902 km, delay=0.00 phút
+DFS: time=162.36 giay, distance=0.902 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=162.36 giay, distance=0.902 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → D
+Ưu tiên: time
+----------------------------
+UCS: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+A*: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+Greedy: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+BFS: time=307.08 giay, distance=1.706 km, delay=0.00 phút
+DFS: time=492.66 giay, distance=2.737 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=284.94 giay, distance=1.583 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → D
+Ưu tiên: time
+----------------------------
+UCS: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+A*: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+Greedy: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+BFS: time=307.08 giay, distance=1.706 km, delay=0.00 phút
+DFS: time=492.66 giay, distance=2.737 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=284.94 giay, distance=1.583 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+A*: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+Greedy: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+BFS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=102.60 giay, distance=0.570 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+A*: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+Greedy: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+BFS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=102.60 giay, distance=0.570 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ B → D
+Ưu tiên: time
+----------------------------
+UCS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+A*: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+Greedy: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+BFS: time=102.60 giay, distance=0.570 km, delay=0.00 phút
+DFS: time=608.94 giay, distance=3.383 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=102.60 giay, distance=0.570 km, delay=0.00 phut
+============================
+
+
+============================
+Tìm đường từ Be → D
+Ưu tiên: time
+----------------------------
+UCS: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+A*: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+Greedy: time=284.94 giay, distance=1.583 km, delay=0.00 phút
+BFS: time=307.08 giay, distance=1.706 km, delay=0.00 phút
+DFS: time=492.66 giay, distance=2.737 km, delay=0.00 phút
+----------------------------
+Best (time): UCS | time=284.94 giay, distance=1.583 km, delay=0.00 phut
+============================
+
