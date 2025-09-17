@@ -68,12 +68,12 @@ class SmartPlanner:
         def key_func(r):
             return tuple(metrics[k](r) for k in ordered)
 
-        best_name, best_result, best_blocked = min(valid_results, key=key_func)
+        best_name_algo, best_result, best_blocked = min(valid_results, key=key_func)
 
-        print(f"Thuật toán được chọn theo tiêu chí '{self.preference}': {best_name}")
+        print(f"Thuật toán được chọn theo tiêu chí '{self.preference}': {best_name_algo}")
         self.print_result(best_result)
 
-        self.logger.log_result(self.problem, results, best_name, best_result, self.preference)
+        self.logger.log_result(self.problem, results, best_name_algo, best_result, self.preference)
 
         return best_result, results
 

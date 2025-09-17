@@ -146,8 +146,8 @@ if __name__ == "__main__":
 
 
     problem = RouteProblem(
-        initial='B',
-        goal='C',
+        initial='Be',
+        goal='D',
         map=romania,
         traffic_conditions=traffic,
         start_time=time(8,0)
@@ -168,5 +168,5 @@ if __name__ == "__main__":
     logger = ExcelLogger("routes_log.xlsx")
     if best_result != failure:
 
-        best_name = next(name for name, r, b in results if r == best_result)
-        logger.log_best_route(problem, results, best_name, best_result, planner.preference)
+        best_name_algo = next(name for name, r, b in results if r == best_result)
+        logger.log_best_route(problem, results, best_name_algo, best_result, planner.preference)

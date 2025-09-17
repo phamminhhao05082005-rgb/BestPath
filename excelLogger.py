@@ -18,7 +18,7 @@ class ExcelLogger:
         sec = total_seconds % 60
         return f"{hours:02d}:{minutes:02d}:{sec:02d}"
 
-    def log_best_route(self, problem, results, best_name, best_result, preference):
+    def log_best_route(self, problem, results, best_name_algo, best_result, preference):
         if best_result == failure:
             print("Không có kết quả để ghi.")
             return
@@ -42,7 +42,7 @@ class ExcelLogger:
                     congested_segments.append(f"{a}-{b} ({start};{end})")
 
 
-        blocked_segments = next(b for n, r, b in results if n == best_name)
+        blocked_segments = next(b for n, r, b in results if n == best_name_algo)
         if blocked_segments:
             traffic_condition = "Closed"
 
@@ -59,7 +59,7 @@ class ExcelLogger:
             'Start': [problem.initial],
             'Goal': [problem.goal],
             'Departure time': [problem.start_time.strftime("%H:%M") if problem.start_time else "N/A"],
-            'Algorithm': [best_name],
+            'Algorithm': [best_name_algo],
             'Path': ['→'.join(path_nodes)],
             'Cost(km)': [best_result.total_km],
             'Total Time': [self._format_time(best_result.path_cost)],
