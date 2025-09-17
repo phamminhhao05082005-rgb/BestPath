@@ -146,8 +146,8 @@ if __name__ == "__main__":
 
 
     problem = RouteProblem(
-        initial='Be',
-        goal='D',
+        initial='B',
+        goal='C',
         map=romania,
         traffic_conditions=traffic,
         start_time=time(8,0)
@@ -156,17 +156,17 @@ if __name__ == "__main__":
     # người dùng được lựa chọn ưu tiên cái nào nhất (distance, time, delay)
     planner = SmartPlanner(problem,"time")
 
-    result, results = planner.plan()
+    best_result, results = planner.plan()
 
 
-    if result:
-        path = path_states(result)
+    if best_result:
+        path = path_states(best_result)
         visualize_map(romania, path)
     else:
         print("Không tìm thấy đường đi.")
 
     logger = ExcelLogger("routes_log.xlsx")
-    if result != failure:
+    if best_result != failure:
 
-        best_name = next(name for name, r, b in results if r == result)
-        logger.log_best_route(problem, results, best_name, result, planner.preference)
+        best_name = next(name for name, r, b in results if r == best_result)
+        logger.log_best_route(problem, results, best_name, best_result, planner.preference)
